@@ -2,4 +2,4 @@
 I’m interested in Web Development and UI/UX design <br>
 
 michel.a.c474@gmail.com <br>
-'@cruz.dgn' on Ig 
+'@michelcruz.me' on Ig 
