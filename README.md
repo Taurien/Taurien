@@ -15,7 +15,7 @@ I have a strong interest in visual products/narratives, new tools, UX, UI and pr
 - 📄 Know about my experience. [Resume](https://www.michelcruz.me/cv-michelcruz.pdf)
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michel-a-cruz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelcruz-me)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/michelcruz.me)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/michelcruz_me) 
 
