@@ -10,7 +10,7 @@ I have a strong interest in visual products/narratives, new tools, UX, UI and pr
   
 - 👨‍💻 All of my projects are available at [michelcruz.me](https://www.michelcruz.me/work)
 
-- 📫 How to reach me **admin@michelcruz.me**
+- 📫 How to reach me **hey@michelcruz.me**
 
 - 📄 Know about my experience. [Resume](https://www.michelcruz.me/cv-michelcruz.pdf)
 
